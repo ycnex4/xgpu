@@ -93,3 +93,15 @@ echo "---------------------------"
 sudo nohup ./xengpuminer -d8 > xengpuminer-8.log 2>&1 &
 sleep 5
 echo "---------------------------"
+
+sudo nohup ./xengpuminer -d9 > xengpuminer-9.log 2>&1 &
+sleep 5
+echo "---------------------------"
+
+sudo nohup ./xengpuminer -d10 > xengpuminer-10.log 2>&1 &
+sleep 5
+echo "---------------------------"
+
+sudo nohup ./xengpuminer -d11 > xengpuminer-11.log 2>&1 &
+sleep 5
+echo "---------------------------"
